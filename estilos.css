@@ -1,0 +1,18 @@
+/* Temas del segundo período*/
+
+.texto{
+   
+    font-size: 30px;
+    padding-top: 125px;
+    text-align: justify;
+    color: rgb(0, 238, 255);
+}
+.principal{
+   display: flex;
+     
+}
+body{
+    background-image: url("pexels-freestocks-412462.jpg");
+    background-repeat: no-repeat;
+
+}
