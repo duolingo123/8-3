@@ -35,3 +35,13 @@ background-repeat: no-repeat;
 
 
 }
+
+.mapa.img4.jpg{
+
+    height: 214px;
+    width: 258px;
+    background-image: url("mapa.img4.jpg");
+    background-repeat: no-repeat;
+    
+    
+    }
