@@ -5,7 +5,7 @@
     font-size: 30px;
     padding-top: 125px;
     text-align: justify;
-    color: rgb(0, 238, 255);
+    color: rgb(2, 19, 20);
 }
 .principal{
    display: flex;
@@ -30,7 +30,7 @@ text-align: center;
 
 height: 214px;
 width: 258px;
-background-image: url("circuitos.jpg");
+background-image: url("img1.jpg");
 background-repeat: no-repeat;
 
 
@@ -45,3 +45,45 @@ background-repeat: no-repeat;
     
     
     }
+
+    .img6{
+
+        height: 214px;
+        width: 258px;
+        background-image: url("img6.jpg");
+        background-repeat: no-repeat;
+        
+        
+        }
+        
+        .circuitos{
+
+            height: 214px;
+            width: 258px;
+            background-image: url("circuitos.jpg");
+            background-repeat: no-repeat;
+            
+            
+            }
+
+            .img5{
+
+                height: 214px;
+                width: 258px;
+                background-image: url("img5.jpg");
+                background-repeat: no-repeat;
+                
+                
+                }
+
+
+                .mapa.img3.jpg{
+
+                    height: 214px;
+                    width: 258px;
+                    background-image: url("mapa.img3.jpg");
+                    background-repeat: no-repeat;
+                    
+                    
+                    }
+    
